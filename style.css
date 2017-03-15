@@ -1,0 +1,12 @@
+form {
+    text-align: center;
+	padding:5%;
+	border:2px solid black;
+}
+#clock{
+	font-size:100px;
+	text-align:center;
+}
+.alarm input{
+	float:left;
+}
